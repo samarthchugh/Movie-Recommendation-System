@@ -6,6 +6,7 @@ An intelligent and visually appealing movie recommendation app built with **Stre
 
 ## 🖼️ UI Design
 
+![Poster](./images/Poster.png)
 ![UI](./images/UI.png)
 ![Recommendation](./images/image2.png)
 
