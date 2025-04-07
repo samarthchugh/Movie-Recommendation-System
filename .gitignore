@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment folders
+venv/
+
+# Jupyter Notebooks checkpoint files
+.ipynb_checkpoints/
+
+# Streamlit configuration
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+
+# Model files (optional)
+model/*.pkl
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
+RawData/*
+!RawData/README.md  # <- Keep README if needed
